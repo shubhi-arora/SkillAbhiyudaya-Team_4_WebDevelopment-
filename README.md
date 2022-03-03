@@ -1,2 +1,2 @@
 # SkillAbhiyudaya-Team_4_WebDevelopment-
-This repository id made for a FORCE website
+This repository is made for a FORCE website
